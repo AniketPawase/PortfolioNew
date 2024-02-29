@@ -35,22 +35,22 @@ function Project() {
         </Col>
         <Col>
           <Card
-            title={"Social-Connect App"}
-            description={
-            "SocialConnect is a MERN stack application with MySQL integration, offering features for post creation, liking, commenting, and user profile management. Utilizing JWT for authentication, it ensures secure registration and login functionalities. SocialConnect provides a seamless user experience, showcasing modern web development techniques across backend, frontend, and database management."
-            }
-            image={"./images/socialConnect.jpeg"}
-            Github={"https://github.com/AniketPawase/WebApp.git"}
-          />
-        </Col>
-        <Col>
-          <Card
             title={"To-Do List App"}
             description={
               " The React Todo List is a minimalist task management app built with React. It allows users to quickly add, delete, and mark tasks as completed. The app features filtering options for easy organization and is designed to be responsive for seamless use on any device. Task data is stored locally for convenience"
             }
             image={"./images/ToDoList.jpg"}
             Github={"https://github.com/AniketPawase/ToDoListApp.git"}
+          />
+        </Col>
+        <Col>
+          <Card
+            title={"Social-Connect App"}
+            description={
+            "SocialConnect is a MERN stack application with MySQL integration, offering features for post creation, liking, commenting, and user profile management. Utilizing JWT for authentication, it ensures secure registration and login functionalities. SocialConnect provides a seamless user experience, showcasing modern web development techniques across backend, frontend, and database management."
+            }
+            image={"./images/socialConnect.jpeg"}
+            Github={"https://github.com/AniketPawase/WebApp.git"}
           />
         </Col>
       </Row>
