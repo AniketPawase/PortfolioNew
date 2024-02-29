@@ -29,7 +29,7 @@ function Project() {
             description={
               "Designed and developed a feature-rich eCommerce website with similarities to Flipkart. The platform enables customers to browse a diverse catalog of products, place orders, and provides sellers with a seamless interface for selling their products."
             }
-            image={"./images/Ecommerce.jpg"}
+            image={"./images/e-commerce.jpg"}
             Github={"https://github.com/ayush-chothe/eCommerce"}
           />
         </Col>
@@ -40,7 +40,7 @@ function Project() {
             "SocialConnect is a MERN stack application with MySQL integration, offering features for post creation, liking, commenting, and user profile management. Utilizing JWT for authentication, it ensures secure registration and login functionalities. SocialConnect provides a seamless user experience, showcasing modern web development techniques across backend, frontend, and database management."
             }
             image={"./images/socialConnect.jpeg"}
-            Github={"https://github.com/AniketPawase/ToDoListApp.git"}
+            Github={"https://github.com/AniketPawase/WebApp.git"}
           />
         </Col>
         <Col>
