@@ -15,6 +15,16 @@ function Project() {
       <Row>
         <Col>
           <Card
+            title={" Inventory Management System"}
+            description={
+              "Designed and developed a feature-rich Inventory Management Application for managing Products,Employees and Seller's information. The platform enables customers to browse a diverse catalog of products, place orders, and provides sellers with a seamless interface for managing products."
+            }
+            image={"./images/InventoryManagement.jpg"}
+            Github={"https://github.com/shubh96git/IMS.git"}
+          />
+        </Col>
+        <Col>
+          <Card
             title={" ECommerce Website"}
             description={
               "Designed and developed a feature-rich eCommerce website with similarities to Flipkart. The platform enables customers to browse a diverse catalog of products, place orders, and provides sellers with a seamless interface for selling their products."
@@ -25,22 +35,22 @@ function Project() {
         </Col>
         <Col>
           <Card
-            title={"Book Management System"}
+            title={"Social-Connect App"}
             description={
-              " Implemented a secure dual-login system for administrators and sellers, ensuring proper access control. Developed Create, Read, Update, and Delete (CRUD) operations for book listings, simplifying inventory management for sellers."
+            "SocialConnect is a MERN stack application with MySQL integration, offering features for post creation, liking, commenting, and user profile management. Utilizing JWT for authentication, it ensures secure registration and login functionalities. SocialConnect provides a seamless user experience, showcasing modern web development techniques across backend, frontend, and database management."
             }
-            image={"./images/book.jpg"}
-            Github={"https://github.com/Dhananjaywarade/BookManagementSystem"}
+            image={"./images/socialConnect.jpeg"}
+            Github={"https://github.com/AniketPawase/ToDoListApp.git"}
           />
         </Col>
         <Col>
           <Card
-            title={" Weather website"}
+            title={"To-Do List App"}
             description={
-              "I've created a user-friendly platform that provides accurate weather information for any location. The website is responsive, visually appealing offers a seamless user experience. By leveraging APIs, I fetch realtime weather data."
+              " The React Todo List is a minimalist task management app built with React. It allows users to quickly add, delete, and mark tasks as completed. The app features filtering options for easy organization and is designed to be responsive for seamless use on any device. Task data is stored locally for convenience"
             }
-            image={"./images/weather.png"}
-            Github={"https://github.com/Dhananjaywarade/weather"}
+            image={"./images/ToDo.jpg"}
+            Github={"https://github.com/AniketPawase/ToDoListApp.git"}
           />
         </Col>
       </Row>

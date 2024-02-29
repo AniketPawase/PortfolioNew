@@ -9,20 +9,20 @@ function Home() {
           <h1
             className="display-4 fw-bold lh-2 text-body-emphasis"
             style={{
-              fontFamily: "Playpen Sans",
+              fontFamily: "fangsong",
               fontSize: "48px",
               lineHeight: "68px",
             }}
           >
             Hi, I am <br />
-            Dhananjay Warade
+            Aniket Pawase
           </h1>
           <h2>
             I am a
             <span
               style={{
                 color: "red",
-                fontFamily: "Playpen Sans",
+                fontFamily: "Roboto",
                 marginLeft: "10px",
               }}
             >
@@ -38,15 +38,11 @@ function Home() {
             </span>
           </h2>
           <p className="lead">
-            I am a motivated and versatile individual, always eager to take on
-            new challenges. With a passion for learning, I am dedicated to
-            delivering high-quality results. With a positive attitude and a
-            growth mindset, I am ready to make a meaningful contribution and
-            achieve great things.
+          Hello,I am a recent graduate of the Post Graduate Diploma in Advanced Computing (PG-DAC) program at CDAC. Equipped with a strong foundation in advanced computing concepts, I bring a passion for learning and problem-solving to the table. My projects have honed my technical skills, while my exposure to industry practices has prepared me for real-world challenges. I'm eager to apply my skills and contribute to innovative projects in your organization. Thank you for considering my application.
           </p>
           <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
             <a
-              href="https://drive.google.com/file/d/1zlJ-G94jW7w6yL9C5jEWk-ceu-G0yaQU/view?usp=sharing"
+              href="https://drive.google.com/file/d/1_6RPxsRmj516Bj2sQbjxn0YqlB_ZT7uK/view?usp=drive_link"
               target="_blank"
               rel="noopener noreferrer"
               className="text-decoration-none btn btn-outline-primary btn-lg px-4 me-md-2 fw-bold"

@@ -35,7 +35,7 @@ export const skills = [
       skills: [
         {
           name: "Node Js",
-          image: "https://nodejs.org/static/images/logo.svg",
+          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png",
         },
         {
           name: "Express Js",
@@ -83,7 +83,7 @@ export const skills = [
         {
           name: "Git",
           image:
-            "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+            "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
         },
         {
           name: "GitHub",
@@ -108,7 +108,7 @@ export const skills = [
         {
           name: "Postman",
           image:
-            "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+            "https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj",
         },
         
         
@@ -127,26 +127,26 @@ export const skills = [
     },
     {
       id: 1,
-      img: "https://media.licdn.com/dms/image/C4E0BAQGSjhRaMqeCjw/company-logo_200_200/0/1598780414154/government_engineering_college_infront_of_vmv_amravati_logo?e=1707350400&v=beta&t=DtytcuDjoZeKn7gPLe2QtcDUYD8qt6iTUMHNBSN2o0E",
-      school: "Government College of Engineering, Amravati",
-      date: "Aug 2018 - Aug 2022",
+      img: "https://banner2.cleanpng.com/20180509/lqq/kisspng-university-of-mumbai-alkesh-dinesh-mody-institute-5af2a63dc98cd9.9610869015258517098256.jpg",
+      school: "Finolex College of Management and Technology,Ratnagiri",
+      date: "Aug 2016 - Aug 2020",
       desc: "I spent the best 4 years at this college. It helped me explore my potential, thanks to the lenient curriculum and no hard attendance rules that I got ample time to dive into new domains and try new ventures.",
-      degree: "Bachelor of Technology (B.Tech) in Mechanical Engineering",
+      degree: "Bachelor of Engineering (B.E.) in Mechanical Engineering",
     },
     {
       id: 2,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uyzTtd-3uY1JLpzZMexSbqIjn-cPx-VPkq5ENnInS-66RoI0",
-      school: "Late. Babanrao Deshpande High School And Junior College Motala ",
-      date: "Apr 2017 - March 2018",
-      desc: "I completed my class 12 education at Late. Babanrao Deshpande High School And Junior College Motala.",
+      school: "Abhyankar Kulkarni Junior College of Science,Ratnagiri ",
+      date: "Apr 2015 - March 2016",
+      desc: "I completed my class 12 education at Abhyankar Kulkarni Junior College of Science,Ratnagiri.",
       degree: "Higher Secondary Certificate (HSC) in Science",
     },
     {
       id: 3,
       img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6uyzTtd-3uY1JLpzZMexSbqIjn-cPx-VPkq5ENnInS-66RoI0",
-      school: "Late. Babanrao Deshpande High School And Junior College Motala ",
-      date: "Apr 2015 - March 2016",
-      desc: "I completed my class 10 education at Late. Babanrao Deshpande High School And Junior College Motala.",
+      school: "R. B. Shirke Highschool ,Ratnagiri",
+      date: "Apr 2013 - March 2014",
+      desc: "I completed my class 10 education at R. B. Shirke Highschool ,Ratnagiri.",
       degree: "Secondary School Certificate (SSC)",
     },
   ];

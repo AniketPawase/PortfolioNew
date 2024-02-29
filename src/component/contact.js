@@ -9,9 +9,9 @@ function Contact() {
           Feel free to reach out to me for any questions or opportunities!
         </p>
         <div className="mx- text-center">
-          <a href="https://www.linkedin.com/in/dhananjaywarade/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin fa-2x social-icon"></i></a>
-          <a href="mailto:waradedhananjay2000@example.com" target="_blank" rel="noopener noreferrer"><i className="fas fa-envelope fa-2x social-icon" style={{ color: 'black', marginLeft: '50px' }}></i></a>
-          <a href="https://github.com/Dhananjaywarade" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-2x social-icon" style={{ color: 'black', marginLeft: '50px' }}></i></a>
+          <a href="https://www.linkedin.com/in/aniket-pawase-a8806b189/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin fa-2x social-icon"></i></a>
+          <a href="mailto:aniketpawase2@gmail.com" target="_blank" rel="noopener noreferrer"><i className="fas fa-envelope fa-2x social-icon" style={{ color: 'black', marginLeft: '50px' }}></i></a>
+          <a href="https://github.com/AniketPawase" target="_blank" rel="noopener noreferrer"><i className="fab fa-github fa-2x social-icon" style={{ color: 'black', marginLeft: '50px' }}></i></a>
         </div>
         <div className="container">
           <div className="row" style={{ margin: '20px' }}>

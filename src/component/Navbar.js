@@ -59,7 +59,7 @@ function Navbar() {
             <a
               className="btn btn-outline-secondary"
               type="submit"
-              href="https://github.com/Dhananjaywarade"
+              href="https://github.com/AniketPawase"
               target="_blank"
               rel="noopener noreferrer"
             >
