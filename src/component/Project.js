@@ -53,14 +53,6 @@ function Project() {
             Github={"https://github.com/AniketPawase/WebApp.git"}
           />
         </Col>
-        <Col>
-          <Card
-            title={""}
-            description={""}
-            image={""}
-            Github={""}
-          />
-        </Col>
       </Row>
     </Container>
   );
