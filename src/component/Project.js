@@ -19,7 +19,7 @@ function Project() {
             description={
               "Designed and developed a feature-rich Inventory Management Application for managing Products,Employees and Seller's information. The platform enables customers to browse a diverse catalog of products, place orders, and provides sellers with a seamless interface for managing products."
             }
-            image={"./images/InventoryManagement.jpg"}
+            image={"./images/IMS.png"}
             Github={"https://github.com/shubh96git/IMS.git"}
           />
         </Col>
