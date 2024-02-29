@@ -49,7 +49,7 @@ function Project() {
             description={
               " The React Todo List is a minimalist task management app built with React. It allows users to quickly add, delete, and mark tasks as completed. The app features filtering options for easy organization and is designed to be responsive for seamless use on any device. Task data is stored locally for convenience"
             }
-            image={"./images/ToDo.jpg"}
+            image={"./images/ToDoList.jpg"}
             Github={"https://github.com/AniketPawase/ToDoListApp.git"}
           />
         </Col>
