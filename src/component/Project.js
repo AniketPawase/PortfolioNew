@@ -47,7 +47,7 @@ function Project() {
           <Card
             title={"Social-Connect App"}
             description={
-            "SocialConnect is a MERN stack application with MySQL integration, offering features for post creation, liking, commenting, and user profile management. Utilizing JWT for authentication, it ensures secure registration and login functionalities. SocialConnect provides a seamless user experience, showcasing modern web development techniques across backend, frontend, and database management."
+            "SocialConnect is a full-stack social media application built using the MERN (MySQL, Express.js, React.js, Node.js) stack with MySQL for database management. The platform allows users to create and share posts, interact with content through likes and comments, and view profiles of other users. Utilizing JSON Web Tokens (JWT) for authentication, SocialConnect provides secure registration and login functionalities. Users can personalize their profiles and engage with a vibrant community through seamless navigation and intuitive user experience. SocialConnect represents a comprehensive showcase of modern web development techniques, featuring robust backend architecture, dynamic front-end design, and efficient database management."
             }
             image={"./images/socialConnect.jpeg"}
             Github={"https://github.com/AniketPawase/WebApp.git"}
