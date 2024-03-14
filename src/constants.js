@@ -113,7 +113,7 @@ export const skills = [
         {
           name: "Vercel",
           image:
-            "https://curity.io/images/resources/code-examples/code-examples-vercel.jpg",
+            "https://w7.pngwing.com/pngs/436/888/png-transparent-vercel-hd-logo.png",
         },
         
       ],
