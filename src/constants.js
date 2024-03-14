@@ -110,7 +110,11 @@ export const skills = [
           image:
             "https://yt3.googleusercontent.com/X-rhKMndFm9hT9wIaJns1StBfGbFdLTkAROwm4UZ3n9ucrBky5CFIeeZhSszFXBgQjItzCD0SA=s900-c-k-c0x00ffffff-no-rj",
         },
-        
+        {
+          name: "Vercel",
+          image:
+            "https://curity.io/images/resources/code-examples/code-examples-vercel.jpg",
+        },
         
       ],
     },
