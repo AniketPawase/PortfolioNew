@@ -69,7 +69,7 @@ function Project() {
             description={
               "Developed a responsive and interactive dashboard application using Next.js and React.js. The application features multiple widgets displaying dynamic data, a settings page for user preferences, and integrates with a mock API. Deployed to Vercel for optimal performance."
             }
-            image={"https://cdn.pixabay.com/photo/2018/09/26/13/53/website-3701624_960_720.jpg"}  // Sample image link; replace if needed
+            image={"./images/interactiveDashboard.jpeg"}
             Github={"https://github.com/AniketPawase/SasakiTech.git"}
           />
         </Col>
