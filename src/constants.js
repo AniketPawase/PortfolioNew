@@ -4,7 +4,7 @@ export const skills = [
       skills: [
         {
         name: "Next Js",
-        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz4GBZTIDCRjoWX2bGDPPPrIrKiXwbxHWPkQ&s"
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5oEbV16UhwRkmdZAT-zxkniTmDbusn8Bt-Q&s"
         },
         {
           name: "React Js",
