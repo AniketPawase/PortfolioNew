@@ -42,7 +42,7 @@ function Home() {
           </p>
           <div className="d-grid gap-2 d-md-flex justify-content-md-start mb-4 mb-lg-3">
             <a
-              href="https://drive.google.com/file/d/1-Yc_1tkyfIsc1FfqQ5uV-KK2iAdmR6yS/view?usp=drive_link"
+              href="https://drive.google.com/file/d/1b7AFOfCkGq_weP3rKtIsMK3A2z5C1hNE/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
               className="text-decoration-none btn btn-outline-primary btn-lg px-4 me-md-2 fw-bold"
