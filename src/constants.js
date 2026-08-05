@@ -19,12 +19,12 @@ export const skills = [
         {
           name: "CSS",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+            "./images/cssImage.jpg",
         },
         {
           name: "JavaScript",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+            "./images/javaScript.png",
         },
         {
           name: "Bootstrap",
@@ -39,7 +39,7 @@ export const skills = [
       skills: [
         {
           name: "Node Js",
-          image: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png",
+          image: "./images/nodeJs.jpeg",
         },
         {
           name: "Express Js",
@@ -117,12 +117,12 @@ export const skills = [
         {
           name: "Netlify",
           image:
-            "https://seeklogo.com/images/N/netlify-logo-BD8F8A77E2-seeklogo.com.png",
+            "./images/netlify.png",
         },
         {
           name: "VS Code",
           image:
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
+            "./images/vsCode.jpeg",
         },
         {
           name: "Postman",
@@ -182,7 +182,7 @@ export const skills = [
       date: "June 2025",
       desc: "Developed and launched a new Service Catalog with associated workflows and Flow Designer to streamline and automate service request fulfillment.• Implemented Zscaler integration with ServiceNow to enhance security posture, automate policy enforcement, and support zero trust architecture and digital experience monitoring.• Tuned and optimized existing Business Rules and Scheduled Jobs for higher performance and maintainability.• Managed e-bonding integrations with multiple customer ServiceNow instances to enable real-time ticket synchronization, data consistency, and cross-enterprise workflow automation.• Collaborated directly with clients to capture integration requirements, verify API and network access, and ensure seamless onboarding of new integration partners.",
       companyName: "Orange Business Services",
-      skills: '•ServiceNow   •Event Management   •CMDB   •JavaScript   •Business Rules   •Integration   •JavaScript   •GlideRecord',
+      skills: '•ServiceNow    •Event Management    •CMDB    •JavaScript    •Business Rules    •REST API Integration    •JavaScript    •Scripted REST   •Table API    •GlideRecord',
     },
     {
       id: 1,

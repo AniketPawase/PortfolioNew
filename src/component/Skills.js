@@ -123,7 +123,7 @@ function Skills() {
       <Wrapper>
         <Title style={{ fontFamily: "Open Sans" }}>Skills</Title>
         <Desc>
-          Here are some of my skills on which I have been working for the past 1 year.
+          Here are some of my skills on which I have been working for the past 2 and Half years.
         </Desc>
         <SkillsContainer>
           {skills.map((skill) => (
