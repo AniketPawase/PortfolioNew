@@ -142,7 +142,7 @@ export const skills = [
   export const education = [
     {
       id: 0,
-      img: "https://media.licdn.com/dms/image/C560BAQHGQzPwHZ1-sA/company-logo_200_200/0/1597775729084?e=2147483647&v=beta&t=M9bDTVZECK8IosPpB-MKmjA83cQoqR62NNpL-CznM6w",
+      img: "./images/sunBeamCDAC.jpeg",
       school: "SunBeam Institute of Information Technology, Pune",
       date: "March 2023 - Aug 2023",
       desc: "I have successfully completed my postgraduate diploma in advanced computing from SunBeam Institute of Information Technology in Pune. My skillset includes proficiency in the following areas: Postman API, Front-End Design, Responsive Web Design, Web Design, Front-End Development, Spring Framework, MySQL, HTML, Cascading Style Sheets (CSS), JavaScript, React.js, Node.js, C++, Object-Oriented Programming (OOP), Data Structures, and Bootstrap.",

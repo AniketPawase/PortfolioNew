@@ -83,7 +83,7 @@ const Experience = () => {
             <Wrapper>
                 <Title>Experience</Title>
                 <Desc>
-                My work experience as a Web Developer and Java Programming Intern working on different projects.
+                My work experience as a ServiceNow Developer, ServiceNow ITOM Consultant,Web Development Intern and Java Programming Intern working on different projects.
                 </Desc>
                 <TimelineSection>
                     <Timeline>

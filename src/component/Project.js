@@ -10,7 +10,7 @@ function Project() {
         Projects
       </h1>
       <p className="mx- text-center" style={{ fontSize: "18px" }}>
-        Here are some of my Projects on which I have been working on for the past 1 <br /> year.
+        Here are some of my Projects on which I have been working on for the past 2 years <br /> year.
       </p>
       <Row>
         <Col>
